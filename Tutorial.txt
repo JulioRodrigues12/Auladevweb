@@ -1,0 +1,6 @@
+Para executar o teste de login:
+No terminal digite: npm install selenium-webdriver
+Depois de baixar digite no terminal :npm install chromedriver
+E depois no terminal : node testelogin.js
+Apos isso , o teste sera executado , as vezes pode dar erro , porém o arquivo está correto e foi testado. 
+Lembrando que esse passo a passo funciona apenas para codigos fora do react (HTML , Javascript puro)
